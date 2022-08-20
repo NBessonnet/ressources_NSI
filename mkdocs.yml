@@ -1,0 +1,101 @@
+site_name: Sources Numériques et Sciences Informatiques      # titre du site
+site_url: https:// NBessonnet.github.io/ressources_NSI/   # url du site
+
+docs_dir: docs
+
+theme: 
+    name: material
+    palette: 
+      - scheme: slate # theme foncé default nom du thème clair
+        primary: teal # header, the sidebar, text links
+        accent: deep orange # links, buttons and scrollbars
+    font:
+        text: Indie Flower # Moon Dance 
+        code: Roboto Mono
+    language: fr
+    logo: images/sun.jpg # icone en haut à gauche de l'entete
+    favicon: images/sun.jpg  # icone de l'onglet
+    features:
+        - toc.integrate # table of content à gauche
+        - navigation.top # bouton vers le haut de la page
+        - header.autohide # cache le header lorsque l'on scrolle la page
+
+
+markdown_extensions:
+  - pymdownx.superfences  # coloration syntaxique
+  - pymdownx.details      # boits repliables
+  - pymdownx.tabbed:       # onglets
+      alternate_style: true 
+  - pymdownx.arithmatex:    # ecrire en latex
+      generic : true        
+  - attr_list             # options image
+  - admonition            # boites avertissement
+  - pymdownx.snippets     # inclusion de fichiers externes
+  - pymdownx.tasklist:    # cases à cocher
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.keys:                # Touches du clavier.  ++ctrl+d++
+      separator: "\uff0b"
+  - pymdownx.emoji:               # Émojis  :boom:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
+      include_source: true # Inclu une copie du fichier source.ipynb (ou .py) dans le dossier de la page sur le site pour son téléchargement
+      execute: true
+      theme: dark
+  - macros        # utilisation de scripts python sur le DOM du site
+  - kroki         # shémas et croquis
+
+
+extra_javascript:
+    - xtra/javascripts/mathjax-config.js                    # MathJax
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+extra_css:
+    - xtra/stylesheets/ajustements.css                      # ajustements
+
+
+nav:
+  - 'accueil': 'index.md'
+  - 'cours':
+        - 'Cours de collègues de NSI': 'cours/site_cours/sites.md'
+        - 'Aide préparation des cours': 'cours/aide_prep/aides-cours.md'
+        - 'Formations en lignes': 'cours/formations-lignes/cours-formation.md'
+        - 'Cours du post-Bac': 'cours/postbac/cours-superieur.md'
+
+  - 'Le BAC': 'bac/bac.md'
+    
+  - 'Pour les élèves': 
+        - "Exercices en ligne": 'eleves/exos/exos.md'
+        - 'Apprentissage': 'eleves/apprentissage/jeux.md'
+        - 'Tutos découverte': 'eleves/apprentissage/tutos.md'
+        
+  - 'Formations en ligne':
+        - 'Cours en ligne': 'formations/cours/formations.md'
+        - 'Creer des jeux': 'formations/creer/creerjeux.md'
+
+  - 'Outils':
+        - 'Créer un site avec mkdocs': 'outils/mkdocs/mkdocs.md'
+        - 'Logiciels': 'outils/logiciels/logiciels.md'
+        - 'Sites pratiques': 'outils/pratique/pratique.md'
+        - 'Clé USB': 'outils/cleUSB/cle.md'
+        - 'Modules Python': 'outils/modules/modules.md'
+        - 'Microcontroleurs': 'outils/microc/micro.md'
+
+  - 'Concours': 'concours.md'
+
+  - 'Projets': 'projets.md'
+  - 'Ursina': 'ursina.md'
+
+  - 'Les tris': 'tris.md'
+    
+
+  - 'bash': 'bash/bash.md'
+  
+ 
+  - 'arbres':
+        - 'Tas binaires': 'arbres/tas/tas.md'
