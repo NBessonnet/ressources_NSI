@@ -22,14 +22,3 @@
 [Charles Bouton](https://www.pearltrees.com/s/file/preview/218593863/Bouton1901.pdf?pearlId=301549059) jeu de nim
 
 [Codes-Sources](https://codes-sources.commentcamarche.net/source/list/python-19/340-jeux/last) codes jeux Python
-
-# Outils
-
-
-*$MicroStudio** : un moteur de jeu gratuit pour Windows, macOS, and Linux par Gilles Pommereu.
-
-- [microStudio](https://microstudio.dev/fr/) version en ligne
-
-- [microStudio](https://microstudio.itch.io/microstudio) version téléchargeable
-
-- [Repository](https://github.com/pmgl/microstudio)
