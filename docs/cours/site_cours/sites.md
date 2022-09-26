@@ -7,10 +7,14 @@
         [Terminale NSI](https://ferney-nsi.gitlab.io/terminale/)
 
 ???note "Le site de Franck Chambon"
+    === "Python en 2nde SNT"
+        [2nd SNT](https://ens-fr.gitlab.io/algo0)
+    === "Python en 2nde Maths"
+        [2nd Maths](https://ens-fr.gitlab.io/flash)
     === "Lien 1NSI"
-        [Première NSI](https://ens-fr.gitlab.io/nsi1/)
+        [Première NSI](https://ens-fr.gitlab.io/algo1/)
     === "Lien TNSI"
-        [Terminale NSI](https://ens-fr.gitlab.io/nsi2/)
+        [Terminale NSI](https://ens-fr.gitlab.io/algo2/)
 
 
 ???note "Le site de Romain Janvier"
@@ -123,3 +127,36 @@
 
 ???note "Site d'Angelique Beucher : cours et exercizer"
     [TNSI](https://infosite27.forge.aeif.fr/informatique-au-lycee-prevert/)
+
+
+???note "Les cours de Dominique : niveau première"
+    === "Les réseaux"
+        [Lien](http://siingenieur.free.fr/nsi/site_reseau/index.html)
+    === "HTML/CSS"
+        [Lien](http://siingenieur.free.fr/nsi/site_htmlcss/index.html)
+    === "Protocole http et formulaire"
+        [lien](http://siingenieur.free.fr/nsi/site_httpgetpost/)
+    === "Javascript"
+        [lien](http://siingenieur.free.fr/nsi/site_javascript/)
+    === "Côté serveur"
+        [Lien](http://siingenieur.free.fr/nsi/site_serveur/)
+    === "Entrées/sorties"
+        [lien](http://siingenieur.free.fr/nsi/site_ihm/)
+    === "Traitement tables"
+        [lien](http://siingenieur.free.fr/nsi/site_courstable/)
+
+???note "Les cours  de Dominique : niveau Terminale"
+    === "Données en table"
+        [Lien](http://siingenieur.free.fr/nsi/site_table/)
+    === "Modèle relationnel"
+        [Lien](http://siingenieur.free.fr/nsi/site_modelerelationnel/)
+    === "Correction Modèle relationnel"
+        [Lien](http://siingenieur.free.fr/nsi/correction_modelerelationnel/)
+    === "SGBD"
+        [lien](http://siingenieur.free.fr/nsi/site_sql/)
+    === "Correction SGBD"
+        [lien](http://siingenieur.free.fr/nsi/correction_sql/)
+    === "Réseau et Internet"
+        [Lien](http://siingenieur.free.fr/nsi/site_reseau/)
+    === "Routage"
+        [lien](http://siingenieur.free.fr/nsi/site_routage/)
