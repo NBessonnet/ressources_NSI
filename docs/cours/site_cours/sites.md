@@ -129,7 +129,7 @@
     [TNSI](https://infosite27.forge.aeif.fr/informatique-au-lycee-prevert/)
 
 
-???note "Les cours de Dominique : niveau première"
+???note "Les cours de Dominique Filoé : niveau première"
     === "Les réseaux"
         [Lien](http://siingenieur.free.fr/nsi/site_reseau/index.html)
     === "HTML/CSS"
@@ -145,7 +145,7 @@
     === "Traitement tables"
         [lien](http://siingenieur.free.fr/nsi/site_courstable/)
 
-???note "Les cours  de Dominique : niveau Terminale"
+???note "Les cours  de Dominique Filoé : niveau Terminale"
     === "Données en table"
         [Lien](http://siingenieur.free.fr/nsi/site_table/)
     === "Modèle relationnel"
