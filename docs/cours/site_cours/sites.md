@@ -119,3 +119,7 @@
 
 ???note "Site du lycée Langevin"
     [STI2D SIN](http://tsin.langevin-la-seyne.fr/SIN/)
+
+
+???note "Site d'Angelique Beucher : cours et exercizer"
+    [TNSI](https://infosite27.forge.aeif.fr/informatique-au-lycee-prevert/)

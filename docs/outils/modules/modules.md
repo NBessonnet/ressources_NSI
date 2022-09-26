@@ -8,9 +8,9 @@ Tutoriels vidéo Flask : [Xavki](https://www.youtube.com/watch?v=vunWCJrwKx8) et
 
 [BootStrap](https://getbootstrap.com/) Build fast, responsive sites with Bootstrap
 
-- Module **Pixel** :  Un moteur de jeu vidéo rétro pour Python.
+- Module **Pyxel** :  Un moteur de jeu vidéo rétro pour Python.
 
-[Pixel](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/)  et [Repository Pixel](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md) 
+[tutoriel Pyxel (nuit du code)](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/)  et [Repository Pyxel](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md) 
 
 - Module **Folium** : concevoir une carte affichée sur une page web [Site officiel](https://python-visualization.github.io/folium/)
 
