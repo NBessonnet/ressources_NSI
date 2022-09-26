@@ -28,3 +28,15 @@ Tutoriels vidéo Flask : [Xavki](https://www.youtube.com/watch?v=vunWCJrwKx8) et
 [Documentation de  Daniel Pope](https://pgzero-french.readthedocs.io/fr/latest/)
 
 [Tutoriel de Yves Moncheaux](https://clogique.fr/nsi/premiere/tuto_pg0/tuto_pgzero.html#1)
+
+- **Ursina** : Interface graphique en 3D en Python
+
+- [TP Ursacraft](https://clogique.fr/nsi/premiere/td_tp/TP_Ursacraft.html#1)
+
+- [Documentation (Anglais)](https://www.ursinaengine.org/cheat_sheet.html)
+
+- [Tutoriel PDF](https://www.ursinaengine.org/ursina_for_dummies.html)
+
+- [Tutoriel Vidéo ](https://www.youtube.com/watch?v=w2gu9Ah95l0)
+
+- [Tutoriel Vidéo Minecraft Like](https://www.youtube.com/watch?v=vX4l-qozib8)

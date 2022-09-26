@@ -89,13 +89,5 @@ nav:
   - 'Concours': 'concours.md'
 
   - 'Projets': 'projets.md'
-  - 'Ursina': 'ursina.md'
-
-  - 'Les tris': 'tris.md'
-    
 
   - 'bash': 'bash/bash.md'
-  
- 
-  - 'arbres':
-        - 'Tas binaires': 'arbres/tas/tas.md'
