@@ -92,7 +92,7 @@
 
 
 
-???note "Le site du lycée Angellier"
+???note "Le site de Denis Quenton"
     === "Lien 1NSI"
         [Première NSI](https://angellier.gitlab.io/nsi/premiere/)
     === "Lien TNSI"
