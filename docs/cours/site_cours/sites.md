@@ -53,10 +53,9 @@
         [Terminale NSI](http://www.maths-info-lycee.fr/nsi.html)    
 
 ???note "Le site de Fabrice Nativel"
-    === "Lien 1NSI"
-        [Première NSI](https://fabricenativel.github.io/NSIPremiere/)
-    === "Lien TNSI"
-        [Terminale NSI](https://fabricenativel.github.io/NSITerminale/)
+    === "Cours de première et de terminale NSI"
+        [NSI](https://fabricenativel.github.io/)
+
 
 
 ???note "Le site Rodrigo Schwencke"
