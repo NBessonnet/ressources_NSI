@@ -18,3 +18,8 @@
 
 [Checkio](https://py.checkio.org/) Des puzzles (Anglais)
 
+[Robozzle](http://www.robozzle.com/beta/index.html) a social puzzle game (Anglais)
+
+[CargotBot](http://www-verimag.imag.fr/~wack/CargoBot/) de Rui Viana.
+
+[Blocky Games](https://blockly.games/?lang=fr) Jeux pour les programmeurs de demain. 

@@ -71,11 +71,11 @@ nav:
     
   - 'Pour les élèves': 
         - "Exercices en ligne": 'eleves/exos/exos.md'
-        - 'Apprentissage': 'eleves/apprentissage/jeux.md'
+        - 'Jeux': 'eleves/apprentissage/jeux.md'
         - 'Tutos découverte': 'eleves/apprentissage/tutos.md'
         
   - 'Formations en ligne':
-        - 'Cours en ligne': 'formations/cours/formations.md'
+        - 'Apprendre en ligne': 'formations/cours/formations.md'
         - 'Creer des jeux': 'formations/creer/creerjeux.md'
 
   - 'Outils':

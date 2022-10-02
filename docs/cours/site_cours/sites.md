@@ -15,6 +15,8 @@
         [Première NSI](https://ens-fr.gitlab.io/algo1/)
     === "Lien TNSI"
         [Terminale NSI](https://ens-fr.gitlab.io/algo2/)
+    === "Questions flash"
+        [Site](https://ens-fr.gitlab.io/flash/)
 
 
 ???note "Le site de Romain Janvier"
@@ -158,4 +160,12 @@
         [lien](http://siingenieur.free.fr/nsi/site_routage/)
 
 ???note "Le site Modulo"
-    [site ](https://dev-apprendre.modulo-info.ch/index.html)
+    [site](https://dev-apprendre.modulo-info.ch/index.html)
+
+???note "Carnets Info de Nathalie Weibel"
+    [Site](https://www.carnets.info/)
+
+
+
+
+    
