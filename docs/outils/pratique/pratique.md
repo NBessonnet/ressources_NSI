@@ -6,6 +6,8 @@
 
 - [JupyterLite](https://jupyterlite.github.io/demo/lab/index.html)  Une distribution de JupyterLab accessible directement dans le navigateur
 
+- [Atelier du numérique](https://www.ateliernumerique.net/) Des ateliers permettent d'avoir, côte à côte, un document de travail (cours, tutoriel, exercices...) et un environnement de création (Scratch, Geogebra, BlocksCAD...).
+
 - [RealPython](https://realpython.com/) Tutoriels pour apprendre Python (Anglais).
 
 - [Skult](http://skulpt.org/) implementation de Python dans une page web.

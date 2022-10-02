@@ -23,6 +23,10 @@
 (Où l'on peut trouver un certain nombre d'articles traîtant d'aspects variés de l'informatique…)
 
 
+- [Logic circuit](https://logic.modulo-info.ch/) Crétion de circuits logiques ; Mode d'emploi [Atelier simulateur logique](http://jp.pellet.name/hep/didapro9/)  
+
+
+
 - [Mermaid](https://mermaid.live/edit#pako:eNpV0E2LwyAQgOG_EmYvE0jAtvvR5rZp0v067h69SNRtwMRizaGU_vedmAqrp_HhBWWu0FmpoIJfJ07H7KfhY0bnFXGV51lZllmNuM7zOwfZI26i1EEaxMdUWsSnKPsgB8TnVN4QX6I0Qd4Rt6l8IO6itEE-6WsspS-i1UwLnv3FKHpD98ZUD5qxorPGOhq1_l_U94IxnRRzAwUMyg2il7Sb6ywc_FENikNFo1RaTMZz4OON0ukkhVet7L11UHk3qQLE5O33ZezifWmaXtCmhwVvf8nkZDk) Différents diagrammes que l'on peut éditer sous différents formats, où intégrer à d'autres documents.
 
 - Démonstration des propriétés de Flexbox (CSS) [CodePen par Dimitar](https://codepen.io/justd/pen/yydezN)

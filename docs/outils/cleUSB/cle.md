@@ -4,6 +4,8 @@ Ventoy permet de créer des clés bootables:
 
 - [Ventoy](https://www.ventoy.net/en/index.html) 
 
+- - - - - -
+
 Ajouter des Systèmes d'exploitation sur la clé :
 
 - [ArchivesOS](https://archiveos.org/) 
@@ -12,6 +14,8 @@ Ajouter des Systèmes d'exploitation sur la clé :
 
 
 - [Hirens Bootscd](https://www.tech2tech.fr/hirens-bootcd-revient-apres-6-longues-annees/) Contient des logiciels gratuit ou libre,  permettant  de réparer ou diagnostiquer un système défaillant.
+
+- - - - - -
 
 Installer des logiciels sur la clé pour les avoir à disposition :
 
@@ -24,6 +28,8 @@ Installer des logiciels sur la clé pour les avoir à disposition :
 - [bitwarden](https://bitwarden.com/) Gestionnaire de mots de passe.
 
 - [malwarebytes](https://fr.malwarebytes.com/) Lutter contre les malwares.
+
+- - - - - -
 
 Avoir une console de rétrogaming sur clé :
 

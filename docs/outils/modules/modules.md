@@ -8,26 +8,39 @@ Tutoriels vidéo Flask : [Xavki](https://www.youtube.com/watch?v=vunWCJrwKx8) et
 
 [BootStrap](https://getbootstrap.com/) Build fast, responsive sites with Bootstrap
 
+- - - - - -
+
 - Module **Pyxel** :  Un moteur de jeu vidéo rétro pour Python.
 
 [tutoriel Pyxel (nuit du code)](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/)  et [Repository Pyxel](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md) 
+
+[Pyxel Studio](https://www.pyxelstudio.net/) 
+
+- - - - - -
 
 - Module **Folium** : concevoir une carte affichée sur une page web [Site officiel](https://python-visualization.github.io/folium/)
 
 [Labo de Maths](http://labodemaths.fr/WordPress3/nsi-tp10-decouverte-du-module-folium-et-tables-de-donnees/)  et [Site SIN ISN](http://sti2d-sin-isn.blogspot.com/2020/02/utilisation-basique-de-folium-sous.html)
 
+- - - - - -
+
 - Module **Doctest** : un framework de test unitaire qui fait partie de la bibliothèque standard de Python [Documentation](https://docs.python.org/3/library/doctest.html)
 
 [Fabien Loison : Flozz Blog](https://blog.flozz.fr/2020/06/15/doctest-vous-navez-aucune-excuse-pour-ne-pas-ecrire-des-tests-unitaires-en-python/) 
 
+- - - - - -
+
 - Module **Pillow** : Travailler sur des images en Python [Documentation](https://pillow.readthedocs.io/en/stable/)
 
+- - - - - -
 
 - **Pygame Zero** : un wrapper autour de pygame pour en simplifier l’utilisation
 
 [Documentation de  Daniel Pope](https://pgzero-french.readthedocs.io/fr/latest/)
 
 [Tutoriel de Yves Moncheaux](https://clogique.fr/nsi/premiere/tuto_pg0/tuto_pgzero.html#1)
+
+- - - - - -
 
 - **Ursina** : Interface graphique en 3D en Python
 

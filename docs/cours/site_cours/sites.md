@@ -70,16 +70,13 @@
     === "Lien TNSI"
         [Terminale NSI](https://isn-icn-ljm.pagesperso-orange.fr/NSI-TLE/index.html)   
 
-???note "Le site des pixees"
-    === "Lien 1NSI"
+???note "Le site des pixees de David Roche"
+    === "Informatique au lycée"
+        [Site](https://pixees.fr/informatiquelycee/)
+    === "Lien ancien site 1NSI"
         [Première NSI](https://pixees.fr/informatiquelycee/n_site/nsi_prem.html)
-    === "Lien 1NSI bis"
-        [Première NSI](https://pixees.fr/informatiquelycee/prem/index.html)
-    === "Lien TNSI"
+    === "Lien ancien site TNSI"
         [Terminale NSI](https://pixees.fr/informatiquelycee/n_site/nsi_term.html)
-    === "Lien TNSI bis"
-        [Terminale NSI](https://dav74.github.io/site_nsi_term/)
-
 
 
 ???note "Le site Proalgo"
@@ -159,3 +156,6 @@
         [Lien](http://siingenieur.free.fr/nsi/site_reseau/)
     === "Routage"
         [lien](http://siingenieur.free.fr/nsi/site_routage/)
+
+???note "Le site Modulo"
+    [site ](https://dev-apprendre.modulo-info.ch/index.html)
