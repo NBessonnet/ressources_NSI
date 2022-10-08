@@ -37,3 +37,5 @@ MkDocs permet de générer de la documentation autour de l'écosystème Markdown
 - [PyMdwon Extentions](https://facelessuser.github.io/pymdown-extensions/)
 
 - [trinket](https://trinket.io/python) incorporer une fenêtre Python dans une page web
+
+- [Pyscript Integration](https://eskool.gitlab.io/mkhack3rs/pyscript/) Configuration et exemples de Rodrigo Schwencke

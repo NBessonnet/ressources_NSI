@@ -25,9 +25,11 @@
 (Où l'on peut créer un QCM pour les cours de NSI)
 
 
-- [Interpreteur Pyton pythonanywhere](https://www.pythonanywhere.com/embedded3/)
+- Interpreteur Pyton [pythonanywhere](https://www.pythonanywhere.com/embedded3/)
 
-- [Animation des algorithmes par Fred Boissac](http://fred.boissac.free.fr/AnimsJS/Dariush_Anims/index.html)
+- [Animation des algorithmes](http://fred.boissac.free.fr/AnimsJS/Dariush_Anims/index.html)  par Fred Boissac
+
+- [CodePuzzle](https://www.codepuzzle.io/) Générateur de “puzzles de Parsons” par Laurent Abbal ; apprendre en corrigeant du code.
 
 - [Articles](https://professeurb.github.io/articles/)
 (Où l'on peut trouver un certain nombre d'articles traîtant d'aspects variés de l'informatique…)
