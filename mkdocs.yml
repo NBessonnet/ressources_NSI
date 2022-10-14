@@ -66,6 +66,7 @@ nav:
         - 'Aide préparation des cours': 'cours/aide_prep/aides-cours.md'
         - 'Formations en lignes': 'cours/formations-lignes/cours-formation.md'
         - 'Cours du post-Bac': 'cours/postbac/cours-superieur.md'
+        - 'API': 'cours/api/api.md'
 
   - 'Le BAC': 'bac/bac.md'
     

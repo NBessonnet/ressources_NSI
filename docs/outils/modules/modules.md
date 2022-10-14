@@ -4,6 +4,9 @@
 
 Tutoriels vidéo Flask : [Xavki](https://www.youtube.com/watch?v=vunWCJrwKx8) et [Paul Vincensini](https://www.youtube.com/watch?v=zDkUIKedFsU)
 
+[Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3-fr) Comment créer une application web en utilisant Flask en Python 3
+
+
 [Spectre](https://picturepan2.github.io/spectre/) A Lightweight, Responsive and Modern CSS Framework
 
 [BootStrap](https://getbootstrap.com/) Build fast, responsive sites with Bootstrap
@@ -30,7 +33,9 @@ Tutoriels vidéo Flask : [Xavki](https://www.youtube.com/watch?v=vunWCJrwKx8) et
 
 - - - - - -
 
-- Module **Pillow** : Travailler sur des images en Python [Documentation](https://pillow.readthedocs.io/en/stable/)
+- Module **Pillow** : Travailler sur des images en Python [Documentation](https://pillow.readthedocs.io/en/stable/) ; Tutoriel [Zet Code](https://zetcode.com/python/pillow/) ;  cours  [Lycee Blaise Pascal](http://info.blaisepascal.fr/pillow)
+
+
 
 - - - - - -
 
@@ -53,3 +58,18 @@ Tutoriels vidéo Flask : [Xavki](https://www.youtube.com/watch?v=vunWCJrwKx8) et
 [Tutoriel Vidéo ](https://www.youtube.com/watch?v=w2gu9Ah95l0)
 
 [Tutoriel Vidéo Minecraft Like](https://www.youtube.com/watch?v=vX4l-qozib8)
+
+- - - - - -
+
+- Module **mysql.connector** et **mariadb** :  utiliser Python pour se connecter à une base de données avec MySQL
+
+[Exemples avec mysql.connector](https://dev.mysql.com/doc/connector-python/en/connector-python-examples.html) 
+
+[Présentation des bases avec mariadb](https://mariadb.com/fr/resources/blog/how-to-connect-python-programs-to-mariadb/)
+
+- - - - - -
+
+- Module **Turtle** :  Le module Turtle est un ensemble d'outils permettant de dessiner à l'aide d'instructions simples des figures géométriques.
+
+[Tutoriel](https://turtle-tutorial.readthedocs.io/en/latest/2_draw/draw.html) 
+

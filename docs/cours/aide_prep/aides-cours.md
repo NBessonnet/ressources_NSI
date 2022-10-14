@@ -24,24 +24,27 @@
 - [Genumsi](https://genumsi.inria.fr/)
 (Où l'on peut créer un QCM pour les cours de NSI)
 
-
-- Interpreteur Pyton [pythonanywhere](https://www.pythonanywhere.com/embedded3/)
-
-- [Animation des algorithmes](http://fred.boissac.free.fr/AnimsJS/Dariush_Anims/index.html)  par Fred Boissac
-
+- - - - - - 
 - [CodePuzzle](https://www.codepuzzle.io/) Générateur de “puzzles de Parsons” par Laurent Abbal ; apprendre en corrigeant du code.
 
 - [Articles](https://professeurb.github.io/articles/)
 (Où l'on peut trouver un certain nombre d'articles traîtant d'aspects variés de l'informatique…)
 
+- [RosettaCode](https://rosettacode.org/wiki/Rosetta_Code) present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different...
 
-- [Logic circuit](https://logic.modulo-info.ch/) Crétion de circuits logiques ; Mode d'emploi [Atelier simulateur logique](http://jp.pellet.name/hep/didapro9/)  
+- - - - - 
+
+- [Animation des algorithmes](http://fred.boissac.free.fr/AnimsJS/Dariush_Anims/index.html)  par Fred Boissac
 
 
+- [Création de graphes, arbres...](http://fred.boissac.free.fr/AnimsJS/DariushGraphes/index.html)  par Fred Boissac
 
-- [Mermaid](https://mermaid.live/edit#pako:eNpV0E2LwyAQgOG_EmYvE0jAtvvR5rZp0v067h69SNRtwMRizaGU_vedmAqrp_HhBWWu0FmpoIJfJ07H7KfhY0bnFXGV51lZllmNuM7zOwfZI26i1EEaxMdUWsSnKPsgB8TnVN4QX6I0Qd4Rt6l8IO6itEE-6WsspS-i1UwLnv3FKHpD98ZUD5qxorPGOhq1_l_U94IxnRRzAwUMyg2il7Sb6ywc_FENikNFo1RaTMZz4OON0ukkhVet7L11UHk3qQLE5O33ZezifWmaXtCmhwVvf8nkZDk) Différents diagrammes que l'on peut éditer sous différents formats, où intégrer à d'autres documents.
-
-- [CodePen par Dimitar](https://codepen.io/justd/pen/yydezN) Démonstration des propriétés de Flexbox (CSS)
 
 - [AlgoGraphe](http://frederic.zinelli.gitlab.io/graph-application/) par Frederic Zinelli 
 (une application dédiée à la création de graphes, leur affichage, leur conversion en structure de données, et l’animation d’algorithmes sur les-dits graphes...) [Readme](https://gitlab.com/frederic.zinelli/graph-application/-/blob/main/README.md) et [dossier à téléchargeable](https://gitlab.com/frederic.zinelli/graph-application/-/tree/main/dist/graph-v0.3.1)
+
+- - - - - 
+
+
+
+- [CodePen par Dimitar](https://codepen.io/justd/pen/yydezN) Démonstration des propriétés de Flexbox (CSS)

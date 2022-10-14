@@ -42,6 +42,8 @@
 
 [Exemple intégration Notebook](https://ericecmorlaix.github.io/test_MkDocs_PyScript/JupyterLike_REPL/) par Eric Madex
 
+[eskool essai pyscript](https://eskool.gitlab.io/tnsi/ressources/essai_pyscript/) par Rodrigo Schwencke
+
 - - - - - -
 
 - StarBoard-notebook : an in-browser literate notebook that is extendable, sharable and hackable.

@@ -23,3 +23,6 @@
 [CargotBot](http://www-verimag.imag.fr/~wack/CargoBot/) de Rui Viana.
 
 [Blocky Games](https://blockly.games/?lang=fr) Jeux pour les programmeurs de demain. 
+
+
+[BlockChainBattle](https://playcurious.games/fr/blockchainbattle/) Découvrir les principes de la blockchain via un jeu vidéo.

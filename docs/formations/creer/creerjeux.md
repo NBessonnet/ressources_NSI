@@ -12,3 +12,5 @@
 
 
 - [Godot](https://godotengine.org/) Moteur de jeu
+
+- [Renpy](https://www.renpy.org/) un outil auteur permettant de créer des jeux-vidéo de type Visual novel

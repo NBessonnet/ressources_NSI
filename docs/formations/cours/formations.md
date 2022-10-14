@@ -19,4 +19,6 @@ Proposition des solutions pour France-IOI en Python pour les élèves de NSI [So
 
 - [Studio Code](https://studio.code.org/courses?lang=fr-FR) Cours d'apprentissage de l'informatique pour les élèves (Anglais).
 
+- [RealPython](https://realpython.com/) Tutoriels pour apprendre Python (Anglais).
+
 - [PIX](https://pix.fr/enseignement-scolaire/) Développer et certifier ses compétences numériques.

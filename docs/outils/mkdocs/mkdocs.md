@@ -22,6 +22,8 @@ MkDocs permet de générer de la documentation autour de l'écosystème Markdown
 ???note "Expérience 2 (pyodine) de Franck Chambon"
     [site test](https://ens-fr.gitlab.io/exp2/3-pyodide/)
 
+- [Pyscript Integration](https://eskool.gitlab.io/mkhack3rs/) Configuration et exemples de Rodrigo Schwencke
+
 - [Site mkdocs](https://www.mkdocs.org/)
 
 - [Documentation Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
@@ -38,4 +40,4 @@ MkDocs permet de générer de la documentation autour de l'écosystème Markdown
 
 - [trinket](https://trinket.io/python) incorporer une fenêtre Python dans une page web
 
-- [Pyscript Integration](https://eskool.gitlab.io/mkhack3rs/pyscript/) Configuration et exemples de Rodrigo Schwencke
+- [Données en table](https://squidfunk.github.io/mkdocs-material/reference/data-tables/)

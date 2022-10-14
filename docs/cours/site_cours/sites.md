@@ -4,6 +4,9 @@
 ???note "Site d'Angelique Beucher : cours et exercizer"
     [TNSI](https://infosite27.forge.aeif.fr/informatique-au-lycee-prevert/)
 
+???note "Site de Thomas Beline"
+    [NSI](https://kxs.fr/cours/)
+
 
 ???note "Le site de Vincent Bouillot"
     === "Lien 1NSI"
