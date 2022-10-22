@@ -5,7 +5,7 @@
 
 [Eduscol](https://eduscol.education.fr/2661/banque-des-epreuves-pratiques-de-specialite-nsi) Banque des sujets d'EP
 
-[Epreuves partiques](https://eduscol.education.fr/2661/banque-des-epreuves-pratiques-de-specialite-nsi) Les sujets d'EP corrigés dans des notebooks sur le site Proalgo
+[Epreuves partiques](https://progalgo.fr/page7.php) Les sujets d'EP corrigés dans des notebooks sur le site Proalgo
 
 [Epreuves partiques](https://sebhoa.gitlab.io/nsi/BNS_2022/) Les sujets d'EP corrigés par Sébastien Hoarau
 
