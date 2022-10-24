@@ -73,3 +73,17 @@ Tutoriels vidéo Flask : [Xavki](https://www.youtube.com/watch?v=vunWCJrwKx8) et
 
 [Tutoriel](https://turtle-tutorial.readthedocs.io/en/latest/2_draw/draw.html) 
 
+- - - - - -
+
+- Module **Curses** :  interface graphique pour contrôler l'affichage en mode texte
+
+
+
+[Documentation complète](https://docs.python.org/fr/3/library/curses.html) et [Documentation](https://docs.python.org/fr/3/howto/curses.html) 
+
+
+[Tutoriel vidéo](https://www.youtube.com/watch?v=Db4oc8qc9RU) de la chaine Tech with Tim
+
+[Tutoriel Dev_dungeon](https://www.devdungeon.com/content/curses-programming-python) et [tutoriel RuneBook.dev](https://runebook.dev/fr/docs/python/library/curses) 
+
+
