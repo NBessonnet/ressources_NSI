@@ -43,7 +43,7 @@ cours est conforme au nouveau programme de MPSI/MP2I
 
 [Repository cours MP2I](https://github.com/mp2i-info/mp2i-info.github.io)
 
-[Capes de NSI](https://capes-nsi.org/ressources/#session-2022)
+[Capes de NSI](https://capes-nsi.org/ressources/#session-2022) ; [Rapport du jury Session 2022](https://www.pearltrees.com/s/file/preview/279420497/rapport%20jury%20capes%20cafep%202022.pdf?pearlId=479519134) et [Liste des leçons 2023](https://www.pearltrees.com/s/file/preview/279420495/liste%20lecons%202023.pdf?pearlId=479519126)
 
     
     

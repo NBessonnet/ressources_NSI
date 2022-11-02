@@ -47,4 +47,13 @@
 
 
 
+- [Ressource Eduscol](https://eduscol.education.fr/sti/si-ens-paris-saclay/ressources_pedagogiques/dossier-intelligence-artificielle) Dossier-intelligence-artificielle
+
+- [Dépot de Christie Vassilian](https://github.com/Math13Net/IA_with_python)  IA_with_python
+
+
+- - - - - 
+
+
+
 - [CodePen par Dimitar](https://codepen.io/justd/pen/yydezN) Démonstration des propriétés de Flexbox (CSS)

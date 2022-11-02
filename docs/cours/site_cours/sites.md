@@ -1,5 +1,7 @@
 # Quelques sites de professeurs de NSI
 
+???note "Site de Gisele Bareux : cours 1NSI, TNSI et BTS Systèmes Photoniques SP"
+    [Site](http://gisele.bareux.free.fr/)
 
 ???note "Site d'Angelique Beucher : cours et exercizer"
     [TNSI](https://infosite27.forge.aeif.fr/informatique-au-lycee-prevert/)
@@ -81,12 +83,16 @@
     === "Lien TNSI"
         [Terminale NSI](https://lamadone.frama.io/informatique/terminale-nsi/index.html)
 
+???note "Site de Frédéric Junier"
+    [1NSI](https://frederic-junier.gitlab.io/parc-nsi/chapitre21/http-git/)
+
+
+
 ???note "Le site de Gilles Lassus"
     === "Lien 1NSI"
         [Première NSI](https://glassus.github.io/premiere_nsi/)
     === "Lien TNSI"
         [Terminale NSI](https://glassus.github.io/terminale_nsi/)
-
 
 
 ???note "Le site d'Olivier Lecluse"
