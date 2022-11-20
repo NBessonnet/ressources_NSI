@@ -87,3 +87,10 @@ Tutoriels vidéo Flask : [Xavki](https://www.youtube.com/watch?v=vunWCJrwKx8) et
 [Tutoriel Dev_dungeon](https://www.devdungeon.com/content/curses-programming-python) et [tutoriel RuneBook.dev](https://runebook.dev/fr/docs/python/library/curses) 
 
 
+- - - - - -
+
+- Module **dearpygui** :  an easy-to-use, dynamic, GPU-Accelerated, cross-platform graphical user interface toolkit(GUI) for Python
+
+
+
+[Documentation](https://dearpygui.readthedocs.io/en/latest/index.html) et [Documentation Pypi](https://pypi.org/project/dearpygui/) 

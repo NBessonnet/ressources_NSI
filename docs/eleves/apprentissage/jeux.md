@@ -25,4 +25,4 @@
 [Blocky Games](https://blockly.games/?lang=fr) Jeux pour les programmeurs de demain. 
 
 
-[BlockChainBattle](https://playcurious.games/fr/blockchainbattle/) Découvrir les principes de la blockchain via un jeu vidéo.
+[BlockChainBattle](https://e-nsi.forge.aeif.fr/blockly-games/fr/index.html) Découvrir les principes de la blockchain via un jeu vidéo.

@@ -6,6 +6,9 @@ Un ensemble normalisé de briques logicielles grâce auxquelles un système info
 
 - [Listes d'API publiques](https://github.com/public-apis/public-apis)
 
+
+- [Data.gouv](https://www.data.gouv.fr/fr/) Plateforme ouverte des données publiques françaises
+
 - [API Carto](https://apicarto.ign.fr/api/doc/)
 
 - [Open Notify](http://open-notify.org/)
@@ -25,3 +28,9 @@ Un ensemble normalisé de briques logicielles grâce auxquelles un système info
 - [Dog API](https://dog.ceo/dog-api/)
 
 - [musicbrainz](https://musicbrainz.org/)
+
+- [Copernicus open access hub](https://scihub.copernicus.eu/twiki/do/view/SciHubWebPortal/APIHubDescription)
+
+- [OpenAI API](https://beta.openai.com/docs/guides/images/introduction)
+
+- [Weather API](https://openweathermap.org/api)

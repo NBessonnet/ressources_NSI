@@ -202,7 +202,8 @@
     [site](https://dev-apprendre.modulo-info.ch/index.html)
 
 
-
+???note "Cours de Python pour la biologie"
+    [site](https://python.sdv.univ-paris-diderot.fr/)  Introduction à la programmation Python pour la biologie de Patrick Fuchs et Pierre Poulain
 
 
     

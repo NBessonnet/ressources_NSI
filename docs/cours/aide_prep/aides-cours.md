@@ -1,6 +1,10 @@
 # Sites divers pour illustrer le cours
 
 
+- [Site e-nsi](https://e-nsi.forge.aeif.fr/) des professeurs d'informatique du secondaire et du supérieur qui produisent collectivement des ressources pédagogiques sur le thème des sciences informatiques.
+
+- - - - 
+
 - [Programmes de la spécialité NSI](https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g) 
 
 - [Eduscol NSI](https://nsi-snt.ac-normandie.fr/ressources-d-accompagnement-eduscol-pour-nsi) Ressources d'accompagnement Eduscol pour la NSI.
@@ -57,3 +61,13 @@
 
 
 - [CodePen par Dimitar](https://codepen.io/justd/pen/yydezN) Démonstration des propriétés de Flexbox (CSS)
+
+
+- - - - - 
+
+
+
+- [Terra numerica](http://terra-numerica.org/) projet pour la diffusion de la culture des sciences du numérique émanant du CNRS, de l'Inria et de l'Université Côte d’Azur
+
+
+- [Inria](https://learninglab.inria.fr/)  conçoit des MOOC en sciences du numérique et accompagne la recherche en e-éducation 
